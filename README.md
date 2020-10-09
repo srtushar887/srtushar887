@@ -1,16 +1,24 @@
-### Hi there 👋
+# MD Shazedur Rahman Tusher 👋
 
-<!--
-**srtushar887/srtushar887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:srt.tusher@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+
+```
+PHP, JavaScript, Python
+```
+
+About me:
+
+- 🔭 I’m currently working on Amromed as a software developer
+- 🌱 I’m currently learning Nodejs, Reactjs and Nextjs
+- 💬 Ask me about anything
+
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srtushar887&show_icons=true&theme=radical" alt="srtushar887"/>
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtushar887&layout=compact&theme=radical" alt="srtushar887"/>
+</a>
