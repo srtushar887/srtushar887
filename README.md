@@ -84,6 +84,4 @@ currently_learning:
 
 > "Code. Learn. Build. Repeat."
 
-⭐ If you like my work, consider following me.
-
 </div>
