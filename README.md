@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+SR+Tusher;Software+Developer;Laravel+%7C+Python+%7C+Django;Node.js+%7C+PostgreSQL;Vue.js+%7C+React.js;Building+AI+Powered+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+SR+Tusher;Software+Developer;Laravel+%7C+Python+%7C+Django;Node.js+%7C+PostgreSQL;Vue.js+%7C+React.js;Building+AI+Powered+Applications" />
 
 </div>
 
