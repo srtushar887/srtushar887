@@ -82,6 +82,12 @@ currently_learning:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srtushar887&theme=react-dark"/>
 </p>
 
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srtushar887&theme=react-dark"/>
+</p>
+
 
 
 # 🚀 Featured Projects
