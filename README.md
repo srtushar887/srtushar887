@@ -86,7 +86,6 @@ currently_learning:
 - 💳 Billing System
 - 🌐 REST APIs
 
-# 🎯 Current Focus
 
 ```diff
 ! Open to Remote Opportunities
