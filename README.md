@@ -63,13 +63,6 @@ currently_learning:
 </p>
 
 
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srtushar887&theme=tokyo-night"/>
-</p>
-
-
-
 # 🚀 Featured Projects
 
 - 🩺 Therapy Management System
