@@ -68,12 +68,12 @@ currently_learning:
 # 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srtushar887&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srtushar887&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRTusher&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRTusher&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtushar887&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRTusher&layout=compact&theme=tokyonight"/>
 </p>
 
 # 📈 Contribution Graph
