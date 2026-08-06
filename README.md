@@ -58,7 +58,7 @@ currently_learning:
 
 # 📊 Most Used Languages
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtushar887&layout=compact&theme=radical" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtushar887&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 📈 Contribution Graph
