@@ -64,28 +64,6 @@ currently_learning:
 ![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-</p>
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-</p>
 
 # 🚀 Featured Projects
 
