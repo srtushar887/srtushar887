@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+SR+Tusher;Software+Developer;Laravel+%7C+Python+%7C+Django;Node.js+%7C+PostgreSQL;Building+AI+Powered+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+SR+Tusher;Software+Developer;Laravel+%7C+Python+%7C+Django;Node.js+%7C+PostgreSQL;Vue.js+%7C+React.js;Building+AI+Powered+Applications" />
 
 </div>
 
@@ -27,13 +27,14 @@ PHP
 Python
 Django
 Node.js
+Vue.js
+React.js
 PostgreSQL
 Docker
 Linux
 
 $ status
-Building scalable backend systems...
-```
+Building scalable full‑stack systems...
 
 # 🧠 About
 
@@ -64,8 +65,6 @@ currently_learning:
 ![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srtushar887&layout=compact&theme=radical)
 
 
 # 📈 Contribution Graph
