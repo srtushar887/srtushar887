@@ -65,17 +65,6 @@ currently_learning:
 ![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRTusher&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRTusher&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRTusher&layout=compact&theme=tokyonight"/>
-</p>
-
 # 📈 Contribution Graph
 
 <p align="center">
