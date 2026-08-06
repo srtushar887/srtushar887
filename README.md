@@ -56,11 +56,6 @@ currently_learning:
 ![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtushar887=vim%20script)](https://github.com/srtushar887/github-readme-stats)
-
-
 # 📈 Contribution Graph
 
 <p align="center">
