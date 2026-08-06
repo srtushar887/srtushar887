@@ -65,6 +65,9 @@ currently_learning:
 ![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srtushar887&layout=compact&theme=radical)
+
+
 # 📈 Contribution Graph
 
 <p align="center">
