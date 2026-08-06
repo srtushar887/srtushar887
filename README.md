@@ -21,18 +21,6 @@ Software Developer
 $ experience
 5+ Years
 
-$ stack
-Laravel
-PHP
-Python
-Django
-Node.js
-Vue.js
-React.js
-PostgreSQL
-Docker
-Linux
-
 $ status
 Building scalable full‑stack systems...
 
