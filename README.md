@@ -61,6 +61,8 @@ currently_learning:
 ![Python](https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-00E5FF?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00E5FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white)
@@ -87,12 +89,6 @@ currently_learning:
 # 🎯 Current Focus
 
 ```diff
-+ AI Applications
-+ Laravel 12
-+ Django APIs
-+ Agentic AI
-+ PostgreSQL
-
 ! Open to Remote Opportunities
 ```
 
