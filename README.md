@@ -65,11 +65,24 @@ currently_learning:
 ![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white)
 
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srtushar887&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srtushar887&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtushar887&layout=compact&theme=tokyonight"/>
+</p>
+
 # 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srtushar887&theme=react-dark"/>
 </p>
+
+
 
 # 🚀 Featured Projects
 
