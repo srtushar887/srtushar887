@@ -56,12 +56,6 @@ currently_learning:
 ![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srtushar887&theme=react-dark"/>
-</p>
-
 
 # 🚀 Featured Projects
 
